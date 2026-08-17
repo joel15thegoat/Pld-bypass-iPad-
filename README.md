@@ -1,7 +1,7 @@
 # PLD Bypass *updated 25/7/2024*
 A guide on bypassing MDM and all other restrictions on Singapore Secondary School Personal Learning Devices (iPads).
 ##  DISCLAIMER
-### I am not responsible for any dead iPads, discipline cases, angry teachers/parents. This guide is purely for educational purposes only.
+### I am not responsible for any dead iPads, discipline cases, angry teachers/parents. This guide is purely for ‘educational purposes’ only.
 ### This process *FACTORY RESETS* your iPad, meaning that *ALL* local data will be irreversibly deleted.
 ### FOLLOW EVERY STEP, NONE OF IT IS OPTIONAL. YOUR IPAD WILL NOT BE BYPASSED IF YOU SKIP STEPS.
 ## Requirements
@@ -54,3 +54,4 @@ Keep holding the button (or buttons) until you see the recovery mode screen:
 Connect to SWN@SSOE and use your MIMS account to log in.
 ## Troubleshooting
 If your device keeps blinking in the sidebar and is just acting glitchy in general, open Terminal and put in this command `sudo killall -STOP -c usbd` and type in your account password. Note that your password will not appear, and it is normal. Also, Google what errors you get, use sites like Reddit or other forums.
+# have fun 
