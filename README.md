@@ -1,4 +1,4 @@
-# PLD Bypass *updated 25/7/2024*
+# PLD Bypass as of 2026 January 
 A guide on bypassing MDM and all other restrictions on Singapore Secondary School Personal Learning Devices (iPads).
 ##  DISCLAIMER
 ### I am not responsible for any dead iPads, discipline cases, angry teachers/parents. This guide is purely for ‘educational purposes’ only.
